@@ -1,1 +1,5 @@
-egg
+#oppskrift til eggerøre
+
+- egg
+- smør
+- salt
